@@ -1,22 +1,22 @@
-title : "Items"
+title : "Features"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-gem"
+  - name : "Reliability"
+    content : "The most critical part of any stove. We strive to make the most reiliable liquid fuel stove on the market buy making maintince easy and parts replace."
+    style : "style2 major fa-fire"
 
   # feature item loop
-  - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+  - name : "Weight"
+    content : "We are committed to ensuring the stove weighs under 430 grams, positioning it among the lightest liquid fuel stoves on the market."
+    style : "solid style2 major fa-weight-hanging"
     
   # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
+  - name : "Form Factor"
+    content : "Weight isn’t everything. We're pushing the limits to minimize pack-down volume as much as possible."
+    style : "solid style2 major fa-backpack"
     
   # # feature item loop
   # - name : "Four"
