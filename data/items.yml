@@ -5,7 +5,7 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Reliability"
-    content : "Its most critical part of any stove. We strive to make the most reliable liquid fuel stove on the market by making cleaning easy and parts available."
+    content : "It's most critical part of any stove. We strive to make the most reliable liquid fuel stove on the market by making cleaning easy and replacement parts readily available."
     style : "style2 major fa-fire"
 
   # feature item loop
