@@ -1,8 +1,8 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Outdoor Adventrests"
+title : "Outdoor Adventurists"
 content: |
-  We are a group of outdoor enthusiasts who are passionate about creating the best camping stove on the market. Collectivley we have climbed <stong>Cotopaxi, the Grand Teton, and Mt. Whitney.</strong> We have also spent countless nights in the <strong>backcountry</strong> and know we can make a killer stove.
+  We are a group of outdoor enthusiasts who are passionate about creating the best camping stove on the market. Collectivley we have climbed <strong>Cotopaxi, the Grand Teton, and Mt. Whitney.</strong> We have also spent countless nights in the <strong>backcountry</strong> and know we can make a killer stove.
   The <strong>PeakHeat</strong> stove is designed for the <strong>outdoor enthusiast</strong> who values <strong>reliability</strong>, <strong>portability</strong>, and <strong>efficiency</strong>. Whether you're a seasoned backpacker or a casual camper, our stove is engineered to meet your needs in the most demanding conditions.
 button: 
   label: "Learn More"
