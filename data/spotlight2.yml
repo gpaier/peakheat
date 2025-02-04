@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-center content-align-center image-position-center onscroll-image-fade-in"
 title : "Design updates coming soon!"
 content: |
   
