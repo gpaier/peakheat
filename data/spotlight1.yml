@@ -3,7 +3,8 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Hey Y'all!"
 content: |
-  We are a small team of passionate <strong>students</strong> at the <strong>University of California, Santa Barbara</strong> pioneering the first major innovation in <strong>liquid fuel</strong> camping stoves in over 50 years. Our stove that is lighter, more compact, and more reliable than any other similar stove on the market.
+  <p>We are a small team of passionate <strong>students</strong> at the <strong>University of California, Santa Barbara</strong> pioneering the first major innovation in <strong>liquid fuel</strong> camping stoves in over 50 years. We creating an ultra-lightweight, compact camping stove that performs reliably in the harshest conditions.
+  We are trying to figure out what features are essential to avid adventurers since <strong>every choice is a compromise.</strong> <p> We’d love to hear your <strong>honest feedback</strong>—what works, what doesn’t, and even what’s missing.
 # button: 
 #   label: "Learn More"
 #   link: "#"
