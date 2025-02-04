@@ -1,0 +1,7 @@
+.logo-top-left {
+    position: relative;
+    margin: 0 auto;
+    max-width: 97%;
+    height: auto;
+    transition: none; /* Prevent snapping effect */
+}
